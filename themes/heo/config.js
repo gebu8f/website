@@ -7,7 +7,7 @@ const CONFIG = {
   HEO_NOTICE_BAR: [
     { title: '歡迎來到我的博客', url: 'https://www.gebu8f.eu.org' },
     { title: '點擊這裡可以進入到聯絡中心', url: 'https://www.gebu8f.eu.org/Contact-us' },
-    { title: '網站已更新至V1.46了！！', url:'https://www.gebu8f.eu.org' }
+    { title: '網站已更新至v4.5.3了！！', url:'https://www.gebu8f.eu.org' }
   ],
 
   // 英雄区左右侧组件颠倒位置
