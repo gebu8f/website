@@ -257,10 +257,7 @@
   dependencies:
     webpack-bundle-analyzer "4.3.0"
 
-"@next/env@14.1.1":
-  version "14.1.1"
-  resolved "https://registry.yarnpkg.com/@next/env/-/env-14.1.1.tgz#80150a8440eb0022a73ba353c6088d419b908bac"
-  integrity sha512-7CnQyD5G8shHxQIIg3c7/pSeYFeMhsNbpU/bmvH7ZnDql7mNRgg8O2JZrhrc/soFnfBnKP4/xXNiiSIPn2w8gA==
+
 
 "@next/eslint-plugin-next@13.5.6":
   version "13.5.6"
@@ -2754,10 +2751,7 @@ next-sitemap@^1.6.203:
     "@corex/deepmerge" "^2.6.148"
     minimist "^1.2.5"
 
-next@14.1.1:
-  version "14.1.1"
-  resolved "https://registry.yarnpkg.com/next/-/next-14.1.1.tgz#92bd603996c050422a738e90362dff758459a171"
-  integrity sha512-McrGJqlGSHeaz2yTRPkEucxQKe5Zq7uPwyeHNmJaZNY4wx9E9QdxmTp310agFRoMuIYgQrCrT3petg13fSVOww==
+
   dependencies:
     "@next/env" "14.1.1"
     "@swc/helpers" "0.5.2"
